@@ -94,6 +94,8 @@ int main() {
 
     // Menampilkan hasil perhitungan
     printf("Hasil: %d\n", hasil);
+    
+    getchar(); //Menunggu pengguna menekan Enter
 
     return 0; // Keluar dari program tanpa error
 }
